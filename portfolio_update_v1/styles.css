@@ -92,7 +92,7 @@ header .animated-gif {
 }
 .location {
   background-color: #222;
-  color: orange;
+  color: yellow;
 }
 .card {
   margin: 30px;
@@ -106,6 +106,7 @@ header .animated-gif {
 }
 .card:hover {
   border-color: #ff99ff;
+  width: 100%;
 }
 
 ul.skills {
